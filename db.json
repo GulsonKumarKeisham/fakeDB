@@ -10,5 +10,8 @@
   ],
   "profile": {
     "name": "typicode"
-  }
+  },
+  "users": [
+    { "id": 1, "firstname": "Gulson", "lastname": "Kumar", "email": "coolgulsoncool@gmail.com" }
+  ]
 }
